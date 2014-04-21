@@ -1,8 +1,9 @@
-CalSD Version Readme
+CalAc Version Readme
 
-CalSD is a graphic differential tone calculator licensed under GNU GPLv3.
+CalAc is a string instrument's chord evaluation tool licensed under GNU GPLv3.
+If you want to download the binaries, go to http://sourceforge.net/projects/calac.
 Contact musicamiento@yahoo.com.ar for support.
 
-Version 1.0.0 - March 2014
+Version 1.0.0 - April 2014
 
 Rodrigo Valla
