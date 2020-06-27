@@ -1,5 +1,4 @@
-CalAc is part of Cal tools. A simple group of apps to assist
-musical-analysis.
+CalAc is part of Cal tools. A simple group of apps to assist musical-analysis.
 
 2014
 
