@@ -1,4 +1,4 @@
-![Icon](https://gitlab.com/musicaltools/calac/-/raw/master/assets/img/Icon.png)
+![Icon](https://gitlab.com/musicaltools/calac/-/raw/master/assets/img/icon_64.png)
 
 # CalAc
 
