@@ -1,7 +1,3 @@
-CalAc is part of Cal tools. A simple group of apps to assist musical-analysis.
-
-2014
-
 ---------------------------------------------------------------------
                       GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
